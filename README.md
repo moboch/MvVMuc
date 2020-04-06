@@ -2,10 +2,6 @@
 Dateisammlung für #MakerVsVirus München. 
 
 
-* Modelle: Die STL Files
-* Sammelstellen: Sammelstellen in München 
-
-# Inhalt
 * Modelle: hier findet ihr die verschiedenen Modell. Achtung: Diese Modelle unterscheiden sich von denen auf der http://www.download-makervsvirus.de/ Webseite. Bitte in München nicht die Dateien von dieser Seite drucken!
 * Sammelstellen: Hier könnt Ihr die Beschreibungen für die Münchner Sammelstellen finden.
 
