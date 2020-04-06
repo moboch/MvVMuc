@@ -10,6 +10,7 @@ Dateisammlung für #MakerVsVirus München.
 * [Allgemeine Informationen, wie mitmachen: https://www.makervsvirus.org/de/](https://www.makervsvirus.org/de/)
 * [FAQ: https://www.makervsvirus.org/faq](https://www.makervsvirus.org/faq)
 * [Guides: https://www.makervsvirus.org/guides](https://www.makervsvirus.org/guides)
+* [Begleitschreiben ist hier zu finden: http://www.download-makervsvirus.de/](http://www.download-makervsvirus.de/)
 
 Diese Modelle unterscheiden sich von denen auf der http://www.download-makervsvirus.de/ Webseite. Bite in München nicht die Dateien von dieser Seite drucken!
 
