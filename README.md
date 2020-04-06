@@ -1,6 +1,6 @@
 # MvVMuc
 Dateisammlung für #MakerVsVirus München. 
-Diese Modelle unterscheiden sich von denen auf der http://www.download-makervsvirus.de/ Webseite. Bite in München nicht die Dateien von dieser Seite drucken!
+Diese Modelle unterscheiden sich von denen auf der http://www.download-makervsvirus.de/ Webseite. Bitte in München nicht die Dateien von dieser Seite drucken!
 
 # Inhalt
 * Modelle: Die STL Files
