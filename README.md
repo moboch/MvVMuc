@@ -6,9 +6,9 @@ Dateisammlung für #MakerVsVirus München.
 
 # Modelle
 Bitte unter Sammelstellen nachschauen welche Version in der nächstgelegenen Sammelstelle gesammelt wird. Der Materialaufwand / Druckzeit steigt nach unten hin.
-[ Münchner Repro zum Modell Brüssel: https://github.com/erfindergarden/brussel-faceshield ](https://github.com/erfindergarden/brussel-faceshield)
-[ Münchner Repro zum Modell Schweden: https://github.com/erfindergarden/brussel-faceshield ](https://github.com/erfindergarden/schweden-faceshield)
-[ Prusa V3 https://www.prusaprinters.org/prints/25857-protective-face-shield-rc2 ](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc2)
+* [ Münchner Repro zum Modell Brüssel: https://github.com/erfindergarden/brussel-faceshield ](https://github.com/erfindergarden/brussel-faceshield)
+* [ Münchner Repro zum Modell Schweden: https://github.com/erfindergarden/brussel-faceshield ](https://github.com/erfindergarden/schweden-faceshield)
+* [ Prusa V3 https://www.prusaprinters.org/prints/25857-protective-face-shield-rc2 ](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc2)
 
 
 
